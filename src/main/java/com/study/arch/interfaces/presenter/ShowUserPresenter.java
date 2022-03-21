@@ -4,7 +4,6 @@ import com.study.arch.application.usecase.ShowUserResponseModel;
 import com.study.arch.domain.user.User;
 import com.study.arch.interfaces.viewmodel.ShowUserViewModel;
 import com.study.arch.interfaces.viewmodel.UserDto;
-import com.study.arch.shared.Presenter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Service;

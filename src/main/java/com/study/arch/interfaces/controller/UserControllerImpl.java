@@ -3,7 +3,7 @@ package com.study.arch.interfaces.controller;
 import com.study.arch.application.usecase.ShowUserRequestModel;
 import com.study.arch.application.usecase.ShowUserResponseModel;
 import com.study.arch.application.usecase.ShowUserService;
-import com.study.arch.shared.Presenter;
+import com.study.arch.interfaces.presenter.Presenter;
 import com.study.arch.interfaces.viewmodel.ShowUserViewModel;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
